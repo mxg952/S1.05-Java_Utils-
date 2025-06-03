@@ -1,0 +1,29 @@
+Directory: /home/mxg/MegaSync/mxgNotes/Autors | Level: 0
+Directory: /home/mxg/MegaSync/mxgNotes/Autors/Charles Dickens.md | Level: 1
+Directory: /home/mxg/MegaSync/mxgNotes/Llibres | Level: 0
+Directory: /home/mxg/MegaSync/mxgNotes/Llibres/Resums | Level: 1
+Directory: /home/mxg/MegaSync/mxgNotes/Llibres/Resums/Metamorfosis.md | Level: 2
+Directory: /home/mxg/MegaSync/mxgNotes/Llibres/Resums/El perfume.md | Level: 2
+Directory: /home/mxg/MegaSync/mxgNotes/Llibres/Resums/El lazarillo de tormes.md | Level: 2
+Directory: /home/mxg/MegaSync/mxgNotes/Llibres/2024.md | Level: 1
+Directory: /home/mxg/MegaSync/mxgNotes/Llibres/2025.md | Level: 1
+Directory: /home/mxg/MegaSync/mxgNotes/IT ACADEMY | Level: 0
+Directory: /home/mxg/MegaSync/mxgNotes/IT ACADEMY/1_Fonaments | Level: 1
+Directory: /home/mxg/MegaSync/mxgNotes/IT ACADEMY/1_Fonaments/Java.md | Level: 2
+Directory: /home/mxg/MegaSync/mxgNotes/IT ACADEMY/1_Fonaments/My SQL.md | Level: 2
+Directory: /home/mxg/MegaSync/mxgNotes/IT ACADEMY/1_Fonaments/Git.md | Level: 2
+Directory: /home/mxg/MegaSync/mxgNotes/IT ACADEMY/1_Fonaments/POO.md | Level: 2
+Directory: /home/mxg/MegaSync/mxgNotes/IT ACADEMY/2_ESPECIALITZACIÓ | Level: 1
+Directory: /home/mxg/MegaSync/mxgNotes/IT ACADEMY/2_ESPECIALITZACIÓ/S1.03 Collections.md | Level: 2
+Directory: /home/mxg/MegaSync/mxgNotes/IT ACADEMY/2_ESPECIALITZACIÓ/S1.01 Herència i polimorfisme.md | Level: 2
+Directory: /home/mxg/MegaSync/mxgNotes/IT ACADEMY/2_ESPECIALITZACIÓ/S1.04 Testing.md | Level: 2
+Directory: /home/mxg/MegaSync/mxgNotes/IT ACADEMY/2_ESPECIALITZACIÓ/S1.02 Exceptions.md | Level: 2
+Directory: /home/mxg/MegaSync/mxgNotes/.obsidian | Level: 0
+Directory: /home/mxg/MegaSync/mxgNotes/.obsidian/graph.json | Level: 1
+Directory: /home/mxg/MegaSync/mxgNotes/.obsidian/hotkeys.json | Level: 1
+Directory: /home/mxg/MegaSync/mxgNotes/.obsidian/core-plugins.json | Level: 1
+Directory: /home/mxg/MegaSync/mxgNotes/.obsidian/workspace.json | Level: 1
+Directory: /home/mxg/MegaSync/mxgNotes/.obsidian/appearance.json | Level: 1
+Directory: /home/mxg/MegaSync/mxgNotes/.obsidian/app.json | Level: 1
+Directory: /home/mxg/MegaSync/mxgNotes/Geopolítica | Level: 0
+Directory: /home/mxg/MegaSync/mxgNotes/Geopolítica/Conflicte  Palestina Israel.md | Level: 1
