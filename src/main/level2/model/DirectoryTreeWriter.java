@@ -25,6 +25,7 @@ public class DirectoryTreeWriter {
             properties.load(inputStream);
 
         }
+
         inputDirectory = properties.getProperty(INPUT_DIR);
         outputFilePath = properties.getProperty(OUTPUT_FILE);
 
@@ -89,7 +90,7 @@ public class DirectoryTreeWriter {
         DirectoryTreeWriter directoryTreeWriter = new DirectoryTreeWriter();
 
         try{
-            directoryTreeWriter.loadConfig(directoryTreeWriter.loadConfig("/home/mxg/MegaSync/IT_Academy/2_Especialització/S1.05-Java_Utils/src/main/level2/model/resources/config.properties"));
+            directoryTreeWriter.loadConfig("src/main/level2/model/resources/config.properties");
 
             File outFile = new File(directoryTreeWriter.outputFilePath);
             if (outFile.exists()) {

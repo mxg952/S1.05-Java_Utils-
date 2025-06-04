@@ -12,7 +12,7 @@ public class Serializer {
     public static void serializeObject(Serializable object) {
 
         try (ObjectOutputStream outputStream = new ObjectOutputStream(new FileOutputStream(FILE_PATH))) {
-            outputStream.writeObject(FILE_PATH);
+            outputStream.writeObject(object);
             System.out.println("Object serialized to: " + FILE_PATH);
         } catch (IOException e) {
             System.err.println("Error serializing the object: " + e.getMessage());
@@ -20,7 +20,9 @@ public class Serializer {
     }
 
     public static void main(String[] args) {
+
         Country country = new Country("Senegal", 10000000);
+
             serializeObject(country);
     }
 

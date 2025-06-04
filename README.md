@@ -42,12 +42,6 @@ https://github.com/mxg952/S1.05-Java_Utils-.git
 ```
 2. Open the project with IntelliJ IDEA.
 
-3. Run the class `nivell1.app.Main.java`.
-
-## Execution
-
-## Deployment
-
 ## Contributions
 The project ignores `.idea/`, `.out/`, `.iml`.
 
