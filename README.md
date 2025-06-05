@@ -1,5 +1,10 @@
 # S1.05 - Java Utils
 
+To compilate all the programs of this repository use the command:
+```
+javac -d bin $(Get-ChildItem -Recurse -Filter *.java | ForEach-Object { $_.FullName })
+```
+
 ## Level 1
 
 **Exercise 1**  
