@@ -7,8 +7,7 @@ import java.io.ObjectInputStream;
 public class Deserializer {
     private static final String FILE_PATH = "src/main/level1/resources/country.ser";
 
-    public static Country deserializeObject(String filepath) {
-
+    public static Country deserializeObject() {
             try (ObjectInputStream inputStream = new ObjectInputStream(new FileInputStream(FILE_PATH))) {
                 Object object = inputStream.readObject();
                 if (object instanceof Country) {
@@ -24,8 +23,11 @@ public class Deserializer {
             }
         }
 
-        public static void main(String[] args) {
-            deserializeObject(FILE_PATH);
+    public static void main(String[] args) {
+        Country deserialized = deserializeObject();  // Crida sense arguments
+        if (deserialized != null) {
+            System.out.println("Deserialized object content: " + deserialized);
         }
     }
+}
 

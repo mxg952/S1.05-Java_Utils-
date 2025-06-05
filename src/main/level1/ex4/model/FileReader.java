@@ -16,14 +16,6 @@ public class FileReader {
         readAndDisplayFile(filePath);
     }
 
-    private static String getFilePath(String[] args) {
-        if (args.length > 0) {
-            return args[0];
-        }
-
-        System.out.println("No file path provided. Using default path...");
-        return "src/main/resources/Path.txt";
-    }
 
     private static void readAndDisplayFile(String filePath) {
         try (BufferedReader reader = new BufferedReader(new java.io.FileReader(filePath))) {
