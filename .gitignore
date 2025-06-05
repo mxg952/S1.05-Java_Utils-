@@ -4,6 +4,7 @@ out/
 !**/src/test/**/out/
 S1.05-Java_Utils.iml
 .idea/
+bin/
 
 
 ### Eclipse ###
